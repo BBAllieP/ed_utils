@@ -11,7 +11,6 @@ const Menu = (props) => (
 
 const mapStateToProps = (state) => {
     return {appState: {...state}}
-    // ... computed data from state and optionally ownProps
   };
   const mapDispatchToProps = {
     toggleMenu
