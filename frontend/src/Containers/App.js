@@ -1,8 +1,8 @@
-import logo from '../logo.svg';
 import './App.css';
 import {connect, sendMsg} from '../api';
 import {useEffect} from 'react';
-
+import Header from './Header';
+import Menu from './Menu';
 
 
 function App() {
@@ -13,10 +13,8 @@ function App() {
   }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-      <button onClick={send}>Hit</button>
+      <Header />
+      <Menu />
     </div>
   );
 }
