@@ -5,7 +5,7 @@ import {connect} from 'react-redux';
 import {toggleMenu} from '../../redux/actions.js'
 
 const Header = (props) => (
-    <AppBar position='static'>
+    <AppBar position='relative' style={{zIndex: 1400}}>
         <Toolbar>
             <IconButton edge='start' aria-label="menu" onClick={props.toggleMenu}>
                 <MenuIcon/>
