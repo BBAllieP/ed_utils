@@ -1,4 +1,4 @@
-import HomeIcon from '@material-ui/icons/Home';
+
 import SecurityIcon from '@material-ui/icons/Security';
 import Shields from './Shields';
 import Home from './Home';
@@ -6,6 +6,7 @@ import Fleet from './Fleet';
 import RoutePlanner from './RoutePlanner';
 import FleetIcon from './Fleet/ico';
 import GalaxyIcon from './RoutePlanner/ico';
+import HomeIcon from './Home/ico';
 
 const MenuItems = [
     {text: 'Home', icon: <HomeIcon />, route: '/', page: <Home />, isExact: true }, 
