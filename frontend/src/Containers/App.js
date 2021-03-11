@@ -9,6 +9,7 @@ import {
   Route
 } from "react-router-dom";
 import MenuItems from '../Pages/MenuItems';
+import Paper from '@material-ui/core/Paper';
 
 function App() {
   useEffect(() => {connect()}, []);
@@ -21,6 +22,7 @@ function App() {
       <Router>
         <Header />
         <Menu />
+        <Paper>
         <Switch>
           {MenuItems.map((i, index)=>(
             <Route exact={i.isExact} path={i.route} >
@@ -28,6 +30,7 @@ function App() {
             </Route>
           ))}
         </Switch>
+        </Paper>
       </Router>
     </div>
   );
