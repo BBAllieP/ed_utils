@@ -6,8 +6,7 @@ import Menu from '../Components/Menu';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import MenuItems from '../Pages/MenuItems';
 
