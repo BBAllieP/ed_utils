@@ -2,7 +2,7 @@ import '../actionTypes';
 import {TOGGLE_MENU} from '../actionTypes';
 
 const initialState = {
-    showMenu: true,
+    showMenu: false,
 };
 
 export default function(state = initialState, action) {
