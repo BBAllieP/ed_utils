@@ -1,0 +1,230 @@
+[
+  {
+    "ID": 1,
+    "ShipName": "Adder",
+    "HullMass": 35,
+    "baseShieldStrength": 60
+  },
+  {
+    "ID": 34,
+    "ShipName": "Alliance Challenger",
+    "HullMass": 450,
+    "baseShieldStrength": 220
+  },
+  {
+    "ID": 33,
+    "ShipName": "Alliance Chieftain",
+    "HullMass": 400,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 36,
+    "ShipName": "Alliance Crusader",
+    "HullMass": 500,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 2,
+    "ShipName": "Anaconda",
+    "HullMass": 400,
+    "baseShieldStrength": 350
+  },
+  {
+    "ID": 3,
+    "ShipName": "Asp Explorer",
+    "HullMass": 280,
+    "baseShieldStrength": 140
+  },
+  {
+    "ID": 24,
+    "ShipName": "Asp Scout",
+    "HullMass": 150,
+    "baseShieldStrength": 120
+  },
+  {
+    "ID": 30,
+    "ShipName": "Beluga Liner",
+    "HullMass": 950,
+    "baseShieldStrength": 280
+  },
+  {
+    "ID": 4,
+    "ShipName": "Cobra Mk III",
+    "HullMass": 180,
+    "baseShieldStrength": 80
+  },
+  {
+    "ID": 29,
+    "ShipName": "Cobra Mk IV",
+    "HullMass": 210,
+    "baseShieldStrength": 120
+  },
+  {
+    "ID": 5,
+    "ShipName": "Diamondback Explorer",
+    "HullMass": 260,
+    "baseShieldStrength": 150
+  },
+  {
+    "ID": 6,
+    "ShipName": "Diamondback Scout",
+    "HullMass": 170,
+    "baseShieldStrength": 120
+  },
+  {
+    "ID": 31,
+    "ShipName": "Dolphin",
+    "HullMass": 140,
+    "baseShieldStrength": 110
+  },
+  {
+    "ID": 7,
+    "ShipName": "Eagle",
+    "HullMass": 50,
+    "baseShieldStrength": 60
+  },
+  {
+    "ID": 8,
+    "ShipName": "Federal Assault Ship",
+    "HullMass": 480,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 25,
+    "ShipName": "Federal Corvette",
+    "HullMass": 900,
+    "baseShieldStrength": 555
+  },
+  {
+    "ID": 9,
+    "ShipName": "Federal Dropship",
+    "HullMass": 580,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 10,
+    "ShipName": "Federal Gunship",
+    "HullMass": 580,
+    "baseShieldStrength": 250
+  },
+  {
+    "ID": 11,
+    "ShipName": "Fer-de-Lance",
+    "HullMass": 250,
+    "baseShieldStrength": 300
+  },
+  {
+    "ID": 12,
+    "ShipName": "Hauler",
+    "HullMass": 14,
+    "baseShieldStrength": 50
+  },
+  {
+    "ID": 13,
+    "ShipName": "Imperial Clipper",
+    "HullMass": 400,
+    "baseShieldStrength": 180
+  },
+  {
+    "ID": 14,
+    "ShipName": "Imperial Courier",
+    "HullMass": 35,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 26,
+    "ShipName": "Imperial Cutter",
+    "HullMass": 1100,
+    "baseShieldStrength": 600
+  },
+  {
+    "ID": 15,
+    "ShipName": "Imperial Eagle",
+    "HullMass": 50,
+    "baseShieldStrength": 80
+  },
+  {
+    "ID": 27,
+    "ShipName": "Keelback",
+    "HullMass": 180,
+    "baseShieldStrength": 135
+  },
+  {
+    "ID": 35,
+    "ShipName": "Krait Mk II",
+    "HullMass": 320,
+    "baseShieldStrength": 220
+  },
+  {
+    "ID": 37,
+    "ShipName": "Krait Phantom",
+    "HullMass": 270,
+    "baseShieldStrength": 200
+  },
+  {
+    "ID": 38,
+    "ShipName": "Mamba",
+    "HullMass": 250,
+    "baseShieldStrength": 270
+  },
+  {
+    "ID": 16,
+    "ShipName": "Orca",
+    "HullMass": 290,
+    "baseShieldStrength": 220
+  },
+  {
+    "ID": 17,
+    "ShipName": "Python",
+    "HullMass": 350,
+    "baseShieldStrength": 260
+  },
+  {
+    "ID": 18,
+    "ShipName": "Sidewinder",
+    "HullMass": 25,
+    "baseShieldStrength": 40
+  },
+  {
+    "ID": 32,
+    "ShipName": "Type-10 Defender",
+    "HullMass": 1200,
+    "baseShieldStrength": 320
+  },
+  {
+    "ID": 19,
+    "ShipName": "Type-6 Transporter",
+    "HullMass": 155,
+    "baseShieldStrength": 90
+  },
+  {
+    "ID": 20,
+    "ShipName": "Type-7 Transporter",
+    "HullMass": 350,
+    "baseShieldStrength": 155
+  },
+  {
+    "ID": 21,
+    "ShipName": "Type-9 Heavy",
+    "HullMass": 850,
+    "baseShieldStrength": 240
+  },
+  {
+    "ID": 22,
+    "ShipName": "Viper",
+    "HullMass": 50,
+    "baseShieldStrength": 105
+  },
+  {
+    "ID": 28,
+    "ShipName": "Viper Mk IV",
+    "HullMass": 190,
+    "baseShieldStrength": 150
+  },
+  {
+    "ID": 23,
+    "ShipName": "Vulture",
+    "HullMass": 230,
+    "baseShieldStrength": 240
+  }
+]

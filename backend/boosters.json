@@ -1,0 +1,182 @@
+[
+  {
+    "ID": 1,
+    "Engineering": "Kinetic Resistance",
+    "Experimental": "Thermo Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.04,
+    "KinResBonus": 0.27,
+    "ThermResBonus": -0.0192
+  },
+  {
+    "ID": 2,
+    "Engineering": "Kinetic Resistance",
+    "Experimental": "Force Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.04,
+    "KinResBonus": 0.2846,
+    "ThermResBonus": -0.04
+  },
+  {
+    "ID": 3,
+    "Engineering": "Kinetic Resistance",
+    "Experimental": "Blast Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.0192,
+    "KinResBonus": 0.27,
+    "ThermResBonus": -0.04
+  },
+  {
+    "ID": 4,
+    "Engineering": "Kinetic Resistance",
+    "Experimental": "Super Capacitors",
+    "ShieldStrengthBonus": 0.26,
+    "ExpResBonus": -0.0608,
+    "KinResBonus": 0.2554,
+    "ThermResBonus": -0.0608
+  },
+  {
+    "ID": 5,
+    "Engineering": "Thermal Resistance",
+    "Experimental": "Thermo Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.04,
+    "KinResBonus": -0.04,
+    "ThermResBonus": 0.2846
+  },
+  {
+    "ID": 6,
+    "Engineering": "Thermal Resistance",
+    "Experimental": "Force Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.04,
+    "KinResBonus": -0.0192,
+    "ThermResBonus": 0.27
+  },
+  {
+    "ID": 7,
+    "Engineering": "Thermal Resistance",
+    "Experimental": "Blast Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": -0.0192,
+    "KinResBonus": -0.04,
+    "ThermResBonus": 0.27
+  },
+  {
+    "ID": 8,
+    "Engineering": "Thermal Resistance",
+    "Experimental": "Super Capacitors",
+    "ShieldStrengthBonus": 0.26,
+    "ExpResBonus": -0.0608,
+    "KinResBonus": -0.0608,
+    "ThermResBonus": 0.2554
+  },
+  {
+    "ID": 9,
+    "Engineering": "Blast Resistance",
+    "Experimental": "Thermo Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.27,
+    "KinResBonus": -0.04,
+    "ThermResBonus": -0.0192
+  },
+  {
+    "ID": 10,
+    "Engineering": "Blast Resistance",
+    "Experimental": "Force Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.27,
+    "KinResBonus": -0.0192,
+    "ThermResBonus": -0.04
+  },
+  {
+    "ID": 11,
+    "Engineering": "Blast Resistance",
+    "Experimental": "Blast Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.2846,
+    "KinResBonus": -0.04,
+    "ThermResBonus": -0.04
+  },
+  {
+    "ID": 12,
+    "Engineering": "Blast Resistance",
+    "Experimental": "Super Capacitors",
+    "ShieldStrengthBonus": 0.26,
+    "ExpResBonus": 0.2554,
+    "KinResBonus": -0.0608,
+    "ThermResBonus": -0.0608
+  },
+  {
+    "ID": 13,
+    "Engineering": "Heavy Duty",
+    "Experimental": "Thermo Block",
+    "ShieldStrengthBonus": 0.639,
+    "ExpResBonus": 0,
+    "KinResBonus": 0,
+    "ThermResBonus": 0.02
+  },
+  {
+    "ID": 14,
+    "Engineering": "Heavy Duty",
+    "Experimental": "Force Block",
+    "ShieldStrengthBonus": 0.639,
+    "ExpResBonus": 0,
+    "KinResBonus": 0.02,
+    "ThermResBonus": 0
+  },
+  {
+    "ID": 15,
+    "Engineering": "Heavy Duty",
+    "Experimental": "Blast Block",
+    "ShieldStrengthBonus": 0.639,
+    "ExpResBonus": 0.02,
+    "KinResBonus": 0,
+    "ThermResBonus": 0
+  },
+  {
+    "ID": 16,
+    "Engineering": "Heavy Duty",
+    "Experimental": "Super Capacitors",
+    "ShieldStrengthBonus": 0.7388,
+    "ExpResBonus": -0.02,
+    "KinResBonus": -0.02,
+    "ThermResBonus": -0.02
+  },
+  {
+    "ID": 17,
+    "Engineering": "Resistance Augmented",
+    "Experimental": "Thermo Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.17,
+    "KinResBonus": 0.17,
+    "ThermResBonus": 0.1866
+  },
+  {
+    "ID": 18,
+    "Engineering": "Resistance Augmented",
+    "Experimental": "Force Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.17,
+    "KinResBonus": 0.1866,
+    "ThermResBonus": 0.17
+  },
+  {
+    "ID": 19,
+    "Engineering": "Resistance Augmented",
+    "Experimental": "Blast Block",
+    "ShieldStrengthBonus": 0.188,
+    "ExpResBonus": 0.1866,
+    "KinResBonus": 0.17,
+    "ThermResBonus": 0.17
+  },
+  {
+    "ID": 20,
+    "Engineering": "Resistance Augmented",
+    "Experimental": "Super Capacitors",
+    "ShieldStrengthBonus": 0.26,
+    "ExpResBonus": 0.1534,
+    "KinResBonus": 0.1534,
+    "ThermResBonus": 0.1534
+  }
+]
