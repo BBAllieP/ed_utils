@@ -2,9 +2,9 @@
 
 ## A full stack web app built on:
 
-### Frontend -
+### Frontend
 
-ReactJS
+ReactJS \n
 Redux
 ReactRouter
 
