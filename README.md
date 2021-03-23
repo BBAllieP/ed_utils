@@ -1,3 +1,13 @@
-# ed_utils
+# CMDR BBAllie's Elite:Dangerous Utilities Site
 
-various ED utilities designed for web
+## A full stack web app built on:
+
+### Frontend -
+
+ReactJS
+Redux
+ReactRouter
+
+### Backend
+
+Golang
