@@ -4,9 +4,9 @@
 
 ### Frontend
 
-ReactJS \n
-Redux
-ReactRouter
+- ReactJS
+- Redux
+- ReactRouter
 
 ### Backend
 
